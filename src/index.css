@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Jeko';
+    src: url('../Fonts/Jeko-Black.ttf') format('truetype');
+    font-weight:black;
+  }
+@font-face {
+    font-family: 'Jeko-Regular';
+    src: url('../Fonts/Jeko-Semi\ Bold.ttf') format('truetype');
+    font-weight:black;
+  }
+
+  
+@font-face {
+    font-family: 'Jeko-extrabold';
+    src: url('../Fonts/Jeko-Extra\ Bold.ttf') format('truetype');
+    font-weight:bolder;
+
+  }
+  
+@font-face {
+    font-family: 'Jeko-bold';
+    src: url('../Fonts/Jeko-Bold.ttf') format('truetype');
+    font-weight:bold;
+
+  }
+

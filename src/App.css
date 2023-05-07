@@ -1,0 +1,17 @@
+::-webkit-scrollbar{
+    width: 5px;
+    background-color: white;
+}
+::-webkit-scrollbar-thumb{
+    background-color: black;
+    width: 5px;
+}
+
+textarea::-webkit-scrollbar{
+    width: 1px;
+    background-color: white;
+}
+textarea::-webkit-scrollbar-thumb{
+    background-color: black;
+    width: 1px;
+}
